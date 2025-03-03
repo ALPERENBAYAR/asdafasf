@@ -1,5 +1,5 @@
 ﻿Imports Microsoft.VisualBasic
 
 Public Class Class1
-    'Interface
+    'Interface/// ahha
 End Class
